@@ -1,1 +1,0 @@
-Options for the [TH] Activation Email Reminder/User Purger add-on.

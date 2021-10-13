@@ -1,1 +1,0 @@
-If a user has not activated their account within X days, it will be automatically deleted. Set to 0 to disable.
