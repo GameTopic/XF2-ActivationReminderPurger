@@ -1,0 +1,23 @@
+{
+    "legacy_addon_id": "rtAERUP",
+    "title": "[NICK97] Activation Email Reminder/User Purger",
+    "description": "Automatically remind & remove inactive user registrations.",
+    "version_id": 1000191,
+    "version_string": "2.2.0",
+    "dev": "NICK97/ThemeHouse",
+    "dev_url": "https://www.xen-shop.com",
+    "faq_url": "https://www.xen-shop.com/faq",
+    "support_url": "https://www.xen-shop.com/support",
+    "extra_urls": {
+        "Gaming Community": "https://cities-mods.com",
+        "Github": "https://github.com/ThemeHouse-XF/XF2-ActivationReminderPurger",
+        "License": "https://github.com/ThemeHouse-XF/XF2-ActivationReminderPurger/blob/master/LICENSE.md"
+    },
+    "require": {
+        "XF": [
+            2010010,
+            "XenForo 2.1.0+"
+        ]
+    },
+    "icon": "far fa-envelope"
+}
